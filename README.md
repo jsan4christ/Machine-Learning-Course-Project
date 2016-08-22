@@ -1,0 +1,2 @@
+# Machine-Learning-Course-Project
+The goal of this project is to apply machine learning algorithms to the 20 test cases available in the test and train accelerometer data to predict the manner in which they did the exercise. This is the “classe” variable in the training set. Where possible, use any of the other variables to predict with. Then create a report describing how model was built and cross validation was used, what the expected out of sample error is, and reasons for the choices for made.
